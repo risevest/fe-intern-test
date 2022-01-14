@@ -30,6 +30,8 @@ Implement the design below
 ### Task 2
 Add a simple JS validation to the login form that validates on submit.
 
+You are very much obliged to go beyond the scope of the design in a bid to handle error and success message/messages display, and any other thing that improves UX.
+
 
 ## Send us your repo!
 After finishing all tasks, reply the mail that sent you this repo with a link your repo.
