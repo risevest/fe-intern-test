@@ -23,13 +23,12 @@ To start local dev server, type in the following command in your terminal:
 
 You should now see the working project page on [http://localhost:3080](http://localhost:3080)
 
+### Task 1
+Implement the design below
 ![Screenshot 1](design/web.png)
 
-### Task 1
-Design and implement the image above
-
 ### Task 2
-Add a simple JS validation to the login form. Submit button should have hover effect that changes it's background color. Please notice checkbox's custom look.
+Add a simple JS validation to the login form that validates on submit.
 
 
 ## Send us your repo!
